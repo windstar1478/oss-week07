@@ -1,1 +1,32 @@
-/* P2 부터 여기에 CSS 를 씁니다 */
+   body {
+     background: #f4f1ec;
+     font-family: "Segoe UI", "Malgun Gothic", sans-serif;
+   }
+
+    h2 {
+    border-left: 4px solid #d9541e;
+    padding-left: 8px;
+    }
+
+   table {
+     border-collapse: collapse;
+   }
+
+   th {
+     border: 1px solid #dddddd;
+     padding: 6px 16px;
+   }
+
+   td {
+     border: 1px solid #dddddd;
+     padding: 6px 16px;
+   }
+
+   .summary {
+     color: #555555;
+     text-align: center;
+   }
+
+   #title {
+    text-align: center;
+   }
