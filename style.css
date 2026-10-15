@@ -30,3 +30,11 @@
    #title {
     text-align: center;
    }
+
+   #wrapper {
+    width: 640;
+    background: white;
+    margin: 24px auto;
+    padding: 24;
+    border-radius: 10px;
+   }
